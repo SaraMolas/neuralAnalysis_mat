@@ -1,6 +1,6 @@
 # neuralAnalysis_mat
 
-Repository to investigate activity pattenrs of electrophysiological neural data recorded by invasive brain implants in mice using Matlab. 
+Repository to investigate activity patterns of electrophysiological neural data recorded by invasive brain implants in mice using Matlab. 
 
 ## Analytical methods used: 
 
